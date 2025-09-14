@@ -139,6 +139,8 @@ Funding support
 
 NIST-MGI (https://www.nist.gov/mgi).
 
+Note: This project was originally developed under the github.com/usnistgov organization and is now maintained here by the lead developer.
+
 Code of conduct
 --------------------
 
